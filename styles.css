@@ -1,4 +1,4 @@
-head{
+
   ul {
 	  list-style-type: none;
 		margin: 0;
@@ -22,4 +22,4 @@ head{
 	ul li a:hover {
 		background-color: #111111;
 	}
-}
+
